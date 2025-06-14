@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Why do you want to study in the US?",
+        "sample": "This is because the quality education im seeking for my field of study is only available in the US."
+    },
+    {
+        "question": "Why did you choose Washburn University?",
+        "sample": "It matches my academic goals and a childhood friend recommended it based on his personal experience there."
+    },
+    {
+        "question": "Why this university?",
+        "sample": "Because it fits my goals."
+    },
+    {
+        "question": "Why did you choose this field?",
+        "sample": "Because i like it."
+    },
+    {
+        "question": "Why are you taking this course?",
+        "sample": "ok"
+    },
+    {
+        "question": "Why here?",
+        "sample": "I like it here"
+    }
+]

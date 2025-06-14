@@ -1,0 +1,58 @@
+[2025-05-24 10:52:03]
+Q: Why do you want to study in the US?
+A: I want better education and future opportunities.
+
+[2025-05-24 10:54:10]
+Q: Why did you choose Washburn University?
+
+A: It's a good university and my friend studies there.
+[2025-05-25 11:16:43]
+Q: What is your name?
+A: My name is test
+
+[2025-05-25 11:16:47]
+Q: What is your name?
+A: My name is test
+
+[2025-05-25 11:23:35]
+Q: Why this university?
+A: because
+
+[2025-05-25 11:23:39]
+Q: Why do you want to study in the US?
+A: ok
+
+[2025-05-25 11:23:41]
+Q: Why did you choose Washburn University?
+A: idk
+
+[2025-05-25 11:46:55]
+Q: Why this university?
+A: i like it
+
+[2025-05-25 11:47:01]
+Q: Why did you choose Washburn University?
+A: idk
+
+[2025-05-25 11:47:18]
+Q: Why do you want to study in the US?
+A: because it is very good.
+
+[2025-05-25 11:52:19]
+Q: Why did you choose this field?
+A: because i like it.
+
+[2025-05-25 11:57:08]
+Q: Why did you choose this field?
+A: idk why[2025-06-14 10:06:12]
+Q: Why are you taking this course?
+A: because i like it
+
+[2025-06-14 10:06:33]
+Q: Why did you choose Washburn University?
+A: becasue it is what i get
+
+[2025-06-14 10:06:54]
+Q: Why here?
+A: becasue nothing was there
+
