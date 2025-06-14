@@ -22,3 +22,5 @@ You just need Python 3 to run this. No external libraries are required (everythi
 2. Navigate to the folder containing these files.
 3. Run the program with:
    python project.py
+   
+![Image](https://github.com/user-attachments/assets/a903598d-92ff-4161-9399-47b6baa8f8b7)
